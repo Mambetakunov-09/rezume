@@ -8,14 +8,16 @@ It is important that the goal
 leads to what values ​​are realized.
  There are goals - they all want. They do not motivate.
 ### Skills
-* HTML
-* CSS
-##### Framework:
-* Bootstrap
-##### Tools:
-* Php-Storm
-* Adobe Illustrator
-* Photo Shop
+  * Languages 
+     * html
+     * css
+   * Frameworks 
+     * bootstrap
+     * owl-carussel
+   * Tools
+     * Php-Storm
+     * Adobe illustrator 
+     * Photo shop
 ### Code examples
 ```html
       <nav class="navbar_menu">
