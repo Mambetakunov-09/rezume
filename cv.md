@@ -1,9 +1,9 @@
 ## Baktiyar Mambetakunov
 ### Contacts
-> Phone-number: +996703098168
-Email: [baha1994_kg@mail.ru](http://mail.ru)
+* Phone-number: +996703098168
+* Email: [baha1994_kg@mail.ru](http://mail.ru)
 ### Goals
-> It makes no sense. 
+It makes no sense. 
 It is important that the goal 
 leads to what values ​​are realized.
  There are goals - they all want. They do not motivate.
@@ -39,6 +39,6 @@ leads to what values ​​are realized.
 * 2012-2016 Kyrgyz National University of Jusup Balasagyn
 * It-run course (still study)
 ### English 
-> My English is not so bad. 
+My English is not so bad. 
 I understand in writing and verbally, but I speak poorly. 
 It is necessary to tighten the level of knowledge of the language.
