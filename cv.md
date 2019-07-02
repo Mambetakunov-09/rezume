@@ -19,22 +19,13 @@ leads to what values ​​are realized.
      * Adobe illustrator 
      * Photo shop
 ### Code examples
-```html
-      <nav class="navbar_menu">
-                     <div class="Logo">
-                         <span>spirit8</span>
-                     </div>
-                     <ul class="list-items">
-                         <li class="list-item"><a href="#header">Home</a></li>
-                         <li class="list-item"><a href="#about">About</a></li>
-                         <li class="list-item"><a href="#services">Services</a></li>
-                         <li class="list-item"><a href="#works">Portfolio</a></li>
-                         <li class="list-item"><a href="#testimonials">Testimonials</a></li>
-                         <li class="list-item"><a href="#contact">Contact</a></li>
-                     </ul>
-      </nav>
-  ``` 
-
+```css
+.h2 {
+    margin: .5em 0 .2em;
+    font-size: 3.6rem;
+    font-weight: 700;
+}    
+```
 ### My last projects
 * [Spirit8](https://mambetakunov-09.github.io/lesson10/)
 * [Waxom](https://mambetakunov-09.github.io/waxom1/)
