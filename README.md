@@ -1,0 +1,1 @@
+Do not squander time – this is stuff life is made of.
