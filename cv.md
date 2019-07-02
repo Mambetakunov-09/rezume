@@ -17,44 +17,21 @@ leads to what values ​​are realized.
 * Adobe Illustrator
 * Photo Shop
 ### Code examples
-```
-<header>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-3">
-                <div class="logo">
-                    <img src="image/logos.png" class="logos" alt="">
-                    <span>Waxom</span>
-                </div>
-            </div>
-            <div class="col-lg-8">
-                <nav class="menu">
-                    <ul class="list-menu">
-                        <li class="list-menu1"><a href="">Homee</a></li>
-                        <li class="list-menu1"><a href="">About us</a></li>
-                        <li class="list-menu1"><a href="">Portfolio</a></li>
-                        <li class="list-menu1"><a href="">Features</a></li>
-                        <li class="list-menu1"><a href="">Blog</a></li>
-                        <li class="list-menu1"><a href="">Pricing</a></li>
-                        <li class="list-menu1"><a href="">Shortcodes</a></li>
-                        <li class="list-menu1"><a href="">Contact</a></li>
-                    </ul>
-                </nav>
-            </div>
-            <div class="col-lg-1">
-                <div class="right-side">
-                    <div class="cart">
-                        <a href=""><img src="image/icon-cart.png" alt=""></a>
-                    </div>
-                    <div class="search">
-                        <a href=""><img src="image/icon-search.png" alt=""></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
-```
+```html
+      <nav class="navbar_menu">
+                     <div class="Logo">
+                         <span>spirit8</span>
+                     </div>
+                     <ul class="list-items">
+                         <li class="list-item"><a href="#header">Home</a></li>
+                         <li class="list-item"><a href="#about">About</a></li>
+                         <li class="list-item"><a href="#services">Services</a></li>
+                         <li class="list-item"><a href="#works">Portfolio</a></li>
+                         <li class="list-item"><a href="#testimonials">Testimonials</a></li>
+                         <li class="list-item"><a href="#contact">Contact</a></li>
+                     </ul>
+      </nav>
+  ``` 
 ### My last projects
 * [Spirit8](https://mambetakunov-09.github.io/lesson10/)
 * [Waxom](https://mambetakunov-09.github.io/waxom1/)
